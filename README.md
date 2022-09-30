@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bukashess
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything that will help my current growth trajectory
 - 📫 How to reach me dstephen062@gmail.com
 
